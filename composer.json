@@ -57,15 +57,6 @@
     "wiki": "https://github.com/samils/samils-component-http-controllerset/wiki"
   },
 	"require": {
-		"php": ">=5.6.20",
-    "php_modules/format": "dev-main",
-    "php_modules/func": "dev-main",
-    "php_modules/createfunction": "dev-main",
-    "php_modules/include-all": "dev-main",
-    "php_modules/plural": "dev-main",
-    "php_modules/singular": "dev-main",
-    "samils/application-server-error-handler": "dev-main",
-    "samils/application-storage": "dev-main",
-    "samils/callable-object": "dev-main"
+		"php": ">=5.6.20"
 	}
 }
